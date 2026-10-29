@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Foldr Updates</title>
-    <link>https://timokhin.github.io/foldr-releases/appcast.xml</link>
-    <description>Обновления Foldr для macOS.</description>
-    <language>ru</language>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Foldr Updates</title>
+        <link>https://timokhin.github.io/foldr-releases/appcast.xml</link>
+        <description>Обновления Foldr</description>
+        <language>ru</language>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 29 Oct 2026 10:53:58 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="aHxKO1YdNtNFZ4ltXwrKI2rna6CC662wqvXxhyqzTwUcOVWAoGDYtX8G3AeC2v6p/1kKtHsjvNh8Rz7wqUQOCg==" sparkle:length="2429">https://timokhin.github.io/foldr-releases/release-notes/Foldr-1.0.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/foldr-releases/releases/download/v1.0.1/Foldr-1.0.1.zip" length="3528593" type="application/octet-stream" sparkle:edSignature="5RGajkeIoLhZ/J4sMdlyLbcAbMnKJxBlCx6LCDjzkhOeUTHkon1JtpbRFuDmCp8uypfMJdM3YQPkiRjXOTOqBA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: PFw1TlvHJtTWLgM7iR3quADYqTFSUMj1HYFHGtkkEnt1jlEZTaCQmhtXHD05yguAn0SVrntwkRgOGcUCdipSAQ==
+length: 1504
+-->
