@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Foldr Updates</title>
+    <link>https://timokhin.github.io/foldr-releases/appcast.xml</link>
+    <description>Обновления Foldr для macOS.</description>
+    <language>ru</language>
+  </channel>
+</rss>
