@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Обновления Foldr</description>
         <language>ru</language>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 29 Oct 2026 10:53:58 +0300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Sat, 31 Oct 2026 15:11:10 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="aHxKO1YdNtNFZ4ltXwrKI2rna6CC662wqvXxhyqzTwUcOVWAoGDYtX8G3AeC2v6p/1kKtHsjvNh8Rz7wqUQOCg==" sparkle:length="2429">https://timokhin.github.io/foldr-releases/release-notes/Foldr-1.0.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/timokhin/foldr-releases/releases/download/v1.0.1/Foldr-1.0.1.zip" length="3528593" type="application/octet-stream" sparkle:edSignature="5RGajkeIoLhZ/J4sMdlyLbcAbMnKJxBlCx6LCDjzkhOeUTHkon1JtpbRFuDmCp8uypfMJdM3YQPkiRjXOTOqBA=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="nHn3kkMMTG/3qptWSRcC/50wLjHmJKLVwUNLE6hkJxapPfNxKPW5BlvnCJ2pq314sp6GnZlYTkEM4GzXEYbjBA==" sparkle:length="622">https://timokhin.github.io/foldr-releases/release-notes/Foldr-1.0.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/foldr-releases/releases/download/v1.0.2/Foldr-1.0.2.zip" length="4964518" type="application/octet-stream" sparkle:edSignature="psoNL77eVgAfZMaH937Un0ru2bD0YkRwQqdCegyO6ZsBPXuMJNYqvdvdEF8HwqInN69H95IZ4uHcrhKPaJYhBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: PFw1TlvHJtTWLgM7iR3quADYqTFSUMj1HYFHGtkkEnt1jlEZTaCQmhtXHD05yguAn0SVrntwkRgOGcUCdipSAQ==
-length: 1504
+edSignature: 61p0qMzDiu+M4SEsnpJm1J7cwxVywgN3bYEvr34tTkFMhi//gVeWJwqCj+8ilRyLEM7S7TdThfkp3lkMumCLAg==
+length: 1503
 -->
