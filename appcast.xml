@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Обновления Foldr</description>
         <language>ru</language>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Mon, 02 Nov 2026 10:22:43 +0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Wed, 04 Nov 2026 19:33:00 +0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="61vvcZpCLQvk9/NoBFJS8ME4TuZUrTbzhVfW8HzMj6kkODXMwTqd6iI0QNjrnrYcqmlW+Om0bWBs2lREYjXlDA==" sparkle:length="682">https://timokhin.github.io/foldr-releases/release-notes/Foldr-1.1.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/timokhin/foldr-releases/releases/download/v1.1.0/Foldr-1.1.0.zip" length="5649278" type="application/octet-stream" sparkle:edSignature="lO7TFcFd1VI5QeTmqY5SP4Jxtzm8vChnDkPneFg2LJ/h5heZrSUht43KkU32CN6vFCyHK4gi/5uUs1K4pf/VBQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="/LkOU5W99/yBipX8F6v7QVorFBncS2QIsFPi1001NRw6ES1/L2VyYbiNrIBrULJQK12KhqgM4Zm954ftoF/fCA==" sparkle:length="612">https://timokhin.github.io/foldr-releases/release-notes/Foldr-1.2.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/timokhin/foldr-releases/releases/download/v1.2.0/Foldr-1.2.0.zip" length="6620243" type="application/octet-stream" sparkle:edSignature="FODUw9WpP5k0U9u68cIOFTksRsGIVy1zrqRA+2Z13gAExtXlWEbr52cDrFDmXvwPbxf6ROeNYNxUxNII6HZ3Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hjYzXp0YwNKRKfsNVJfMej2cba6ecFiVcwGTLCb4EGgUplA2KiBUc5xZaLFwkHV/2z/Mbhe8WMYOMwmwt3wdCg==
+edSignature: TctHRsrvKCx75L+eJhKvZA+Xns0yY+PamsaIqwHwG7a+bhONqXtPH/C8xCL4DVtMqnisRjd/frd6g0yiaLBiDw==
 length: 1503
 -->
